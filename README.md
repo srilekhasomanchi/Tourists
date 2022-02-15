@@ -1,4 +1,4 @@
-# Food ordering application
+# Food Ordering Application
 
 ## Meeting minutes
 ### Week 1 - 175 minutes
